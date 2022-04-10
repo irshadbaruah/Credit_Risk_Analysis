@@ -48,4 +48,4 @@ Q6: What is the extra cost(if any) company will have to incur if the customer de
 Q7: Is it beneficial for the company if the customer pays the credit card bill after the due date? (express your views as a business strategy analyst with a short example)
 
 For the below question consider yourself as a credit risk manager.
-Which information variables you will use to calculate the credit card limit and the risk associated with it for an individual customer? Also, give the reason for your choice. (Example-Bureau score) 
+Which information variables you will use to calculate the credit card limit and the risk associated with it for an individual customer? Also, give the reason for your choice. (Example-Bureau score)........
